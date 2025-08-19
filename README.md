@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <h1>📝 Blogy - Blog Website</h1>
-  <p>A modern, clean, and responsive blog website built with HTML, CSS, and JavaScript.</p>
+  <p>A modern, clean, and responsive blog website built with HTML, CSS.</p>
   <img src="Blog%20Website/assets/images/screenshot.png" alt="Blogy Blog Website Screenshot" width="100%"/>
 </div>
 
